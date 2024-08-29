@@ -1,0 +1,11 @@
+.project-container{
+    /* width: 50%; */
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.project{
+    border: solid 1px white;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: inset;
+margin: 15px;}

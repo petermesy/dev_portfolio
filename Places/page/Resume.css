@@ -1,0 +1,18 @@
+.resume-container{
+    align-items: center;
+    width: 60%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+.resume{
+    display:flex ;
+    padding: 30px;
+    gap: 50px;
+    border: solid 1px white;
+    margin: 15px;
+    border-radius: 15px;
+}
+.title_outer{
+    width: 10%;
+}
